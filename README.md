@@ -4,6 +4,7 @@ My personal bot for arbitraging tAssets on [Twindex](https://twindex.com). **Use
 ## Installation
 To install project dependencies **make sure your computer have node.js installed**. Then, run the following command:
 ```bash
+git clone https://github.com/tann9949/tasset-arbitrage.git --depth 1
 npm install
 ```
 
